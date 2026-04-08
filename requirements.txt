@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+langchain
+langchain-groq
+langchain-community
+groq
+ipykernel
+notebook
+jupyterlab
+tqdm
+pandas
+streamlit
