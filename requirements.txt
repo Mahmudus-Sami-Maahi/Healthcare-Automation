@@ -10,3 +10,4 @@ jupyterlab
 tqdm
 pandas
 streamlit
+langraph
