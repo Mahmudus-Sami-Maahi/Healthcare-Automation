@@ -1,4 +1,4 @@
-# 🩺 Doctor Search Chatbot (Evercare Hospital)
+# 🩺 Doctor Search Chatbot 
 
 A user-friendly AI-powered chatbot that helps users find doctors, their specialties, hospital details, and availability using natural language queries. This project uses **Streamlit**, **LangChain**, and **Groq LLM** to provide intelligent search over a structured dataset.
 
