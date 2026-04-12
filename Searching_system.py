@@ -60,8 +60,6 @@ General Mapping:
 - "hormone", "diabetes", "thyroid" → Endocrinology
 - "cancer", "tumor" → Oncology
 - "ear", "nose", "throat", "sinus" → ENT
-
-Newly Added:
 - "eye", "vision", "blur", "eye pain" → Ophthalmology / Eye Specialist
 - "head", "headache", "migraine", "brain" → Neurology / Neurologist
 - "stroke", "seizure" → Neurology
